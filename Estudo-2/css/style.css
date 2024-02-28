@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: georgia;
+}
+
+
+#menu{
+    background-image: url("../pg/img/pexels-anni-roenkae-3109807.jpg");
+    padding: 10px 15px;
+    display: flex; 
+    justify-content: right;  
+}
+
+.a1{
+    text-decoration: none;
+    color: yellow;
+    display: flex;
+    padding-right: 20px;  
+}
+
+.footer{
+    background-image: url("../pg/img/pexels-anni-roenkae-3109807.jpg");
+    text-decoration: none;
+    color: yellow;
+    display: flex;
+    padding: 10px 15px;
+    justify-content: right;
+}
+
+.p{
+    text-align: center;
+    padding: 10px;  
+    font-size: 20px;
+    height: 80%;
+    width: 100%;
+}
+
+#link{
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-image: url("../pg/img/pexels-anni-roenkae-3109807.jpg");
+    color: rgb(255, 255, 0);
+}
+
+#ex1{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #566;
+    color: yellow;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url("../pg/img/pexels-anni-roenkae-3109807.jpg");   
+    padding: 10px;
+    border-bottom: 3px solid black;
+    
+}
+
+a{
+    color: yellow;
+    text-decoration: none;
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    list-style: none;
+    padding-right: 20px;
+}
+
+img{
+    width: 60px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+#ex2{
+    height: 100vh;
+    display: flex;
+}
+
+#nome, #ads{
+    width: 50vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+#nome{
+    background: darkred;
+    color: black;
+    background-image: url("../pg/img/pexels-darius-krause-2470655\ \(1\).jpg");
+}
+
+#ads{
+    background-image: url("../pg/img/pexels-szelei-robert-1482193.jpg");
+    color: bisque;
+}
+
